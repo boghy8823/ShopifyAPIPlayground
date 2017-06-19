@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+76232694-localhost.key
+76232694-localhost.cert
